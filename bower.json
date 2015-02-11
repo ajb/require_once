@@ -1,0 +1,17 @@
+{
+  "name": "require_once",
+  "main": "require_once.js",
+  "version": "0.0.1",
+  "authors": [
+    "ajb <ad@mbecker.cc>"
+  ],
+  "description": "An extension to jQuery's `$.getScript` that prevents you from loading the same script twice.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
